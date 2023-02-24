@@ -8,9 +8,13 @@ The Kuznets Curve predicts that as nations become wealthier, inequality initiall
 In capitalist systems, norms of equality exist implicitly. The equality that exists in the standard form of utilitarianism can be interpreted as assigning the same positive coefficient to all individuals[5]. Classical capitalism tends to be associated with higher income inequality than liberal capitalism. Liberal capitalism lies between classical capitalism and homoploutic capitalism where compositional inequality is low and a society can be seen as homoploutic capitalism [4][1][5].
 
 [1] https://stonecenter.gc.cuny.edu/files/2021/11/Ranaldi-and-Milanovic-2021.pdf
+
 [2] https://www.theatlantic.com/business/archive/2011/05/income-inequality-around-the-world-is-a-failure-of-capitalism/238837/
+
 [3] https://dobetter.esade.edu/en/capitalism
+
 [4] https://cepr.org/voxeu/columns/capitalist-systems-and-income-inequality
+
 [5] https://www.journals.uchicago.edu/doi/full/10.1086/686480
 
 In Coefficient Capitalism, the factors of production go beyond the traditional focus on labor, capital goods, entrepreneurship, and natural resources. Instead, it also considers the impact on stakeholders and the environment, legal and reputational compliance, and social responsibility.
