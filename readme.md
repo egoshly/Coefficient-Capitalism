@@ -13,6 +13,8 @@ In capitalist systems, norms of equality exist implicitly. The equality that exi
 [4] https://cepr.org/voxeu/columns/capitalist-systems-and-income-inequality
 [5] https://www.journals.uchicago.edu/doi/full/10.1086/686480
 
+In Coefficient Capitalism, the factors of production go beyond the traditional focus on labor, capital goods, entrepreneurship, and natural resources. Instead, it also considers the impact on stakeholders and the environment, legal and reputational compliance, and social responsibility.
+
 The SEPG coefficient measures Sustainable, Equitable, and Prosperous Growth as follows:
 
 SEPG Coefficient = (Economic Output Score * (1 - Environmental Impact Score)) * (Social Impact Score / (Income Equality Score + Compliance Score + Reputation Score + Human Character Score))
@@ -34,6 +36,3 @@ The components of the SEPG coefficient are:
 -   Human Character Score: measures an entity's customer satisfaction and loyalty, with a score range of -1 to +1. A score of -1 indicates significant customer dissatisfaction, with a history of complaints, negative reviews, or low customer loyalty. A score of 0 indicates neutral customer satisfaction, with a history of average customer feedback or loyalty. A score of +1 indicates high customer satisfaction, with positive customer feedback, high customer loyalty, and positive impact on stakeholders, but potential for unintended negative consequences such as increased costs or reduced innovation.
 
 Incorporating these additional factors into the SEPG coefficient provides a more comprehensive and holistic assessment of an entity's sustainable, equitable, and prosperous growth. By considering not only economic, social, and environmental factors, but also legal, reputational, and Human Character factors, the SEPG coefficient can more accurately reflect an entity's overall impact on stakeholders and the wider community. This can help entities identify areas for improvement and take action to create more positive outcomes for all stakeholders.
-
-February 16th, 2016.
--egod
